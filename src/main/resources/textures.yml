@@ -1,0 +1,129 @@
+#Colors :
+#    WHITE,
+#    ORANGE,
+#    MAGENTA,
+#    LIGHT_BLUE,
+#    YELLOW,
+#    LIME,
+#    PINK,
+#    GRAY,
+#    LIGHT_GRAY,
+#    CYAN,
+#    PURPLE,
+#    BLUE,
+#    BROWN,
+#    GREEN,
+#    RED,
+#    BLACK
+white:
+  glass: WHITE
+  item-name: "&fLucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzhlMTZlN2ZmMTNkM2UzMGEzYTJiODM1YTg2ZmQwNWVjYmMwODkwOWY2MDU2ZGUxNjQ2ZmUyNWIzZGVmOTU4NCJ9fX0="
+orange:
+  glass: ORANGE
+  item-name: "&6Lucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQzYTE0MzZlMGZkNWYzZTRkMTEzYTA5MmMxZDA3YTEyZTIyZDQyNmM1MDE4M2NjZDYyODc3ZDljZDg4NWZiZCJ9fX0="
+magenta:
+  glass: MAGENTA
+  item-name: "&dLucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWYyMzY4NWM2OTdiYTU1ZWRkYTQyNWVjZjFmZWM3MmZlZWI3YmI5ODVjNjUwNmIyY2VmMDcwNTE1ZTRlNTQ5MiJ9fX0="
+light_blue:
+  glass: LIGHT_BLUE
+  item-name: "&bLucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjVmZWQ0NmIzOWM2YzM0ZDQ5MTE0M2I3MmNlNzI4Nzk3ZDE2ZjliNWFhNDBiYmRlYzYxNjY3ZjVmZjlkM2Q0NSJ9fX0="
+yellow:
+  glass: YELLOW
+  item-name: "&eLucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTdiYzFiNjRjYmEzZGM0Y2VmZTRlMTIxYzNjZGJiYjBmYTk5YWJhMGUxMTNiNWM5MTY4MTVmYzliMzA0ZTYzNiJ9fX0="
+lime:
+  glass: LIME
+  item-name: "&aLucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjAzZjVhOWJjNzE5Y2QxMTI3YmUwOTU0YzczY2Q1NzE0ZWNkNDc4ZGFkODgwZWYyYjk5NzljNDgxMDk3ZTZiZSJ9fX0="
+pink:
+  glass: PINK
+  item-name: "&dLucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTFhMzY3MTY0YmM2ODUyYzhmMDc4ODExZGU3YmFhY2FlZmQ2OTY0OTYwZWJmZjFmYTUwNGM3YjRiMTI5OGE1MiJ9fX0="
+gray:
+  glass: GRAY
+  item-name: "&8Lucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjE3MWEwYzA1NzI4MjRkYTgwMzY2ZDcxYzU0MTNhN2UzMzU1YWJlYzc5YjhmNTI5ZjFkYzlkYWQyNjMyZjQ4NSJ9fX0="
+light_gray:
+  glass: LIGHT_GRAY
+  item-name: "&7Lucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDAxOWZlNjMzYTQ1ZmMzZDM1M2Y5YTJmMDlmZDg4ZTcyMWRlMzFjMmJjOTY5YWUwYWVlYWRmNTdjMWJlMGJjYyJ9fX0="
+cyan:
+  glass: CYAN
+  item-name: "&3Lucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzAwYzgxNzQzMjU4NWZhZGNiZDljYThjZmVkZmVlZGJjZTU4NTFiN2MwN2QxYjA3M2ZiNTJmYTgyODNlOGYyMyJ9fX0="
+purple:
+  glass: PURPLE
+  item-name: "&5Lucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNmYjRlYmMzYmE0ZmVjMDRkODk3OGExNjYwYmI3Yzk4ZTk2MzQyZmYyYTIzOGFkYTlkZjJmNzRiZjAzMmI0MCJ9fX0="
+blue:
+  glass: BLUE
+  item-name: "&9Lucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODUzNGIxN2QyZDNiNWE2NGM1N2Y1ZjA4MGRkNzc3OTQ1NzYxZDlmNzFkODJlOGY1OTlmMjQyOTc2ZTRkMGMwNSJ9fX0="
+brown:
+  glass: BROWN
+  item-name: "&0Lucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzEzMzQxNDc1OWY5ZTUzMTUxNTYwMTcwMjNhOGIxYjMxY2ZiZjE3N2RjYWZiMDYwM2I4ZTlkOTQwMzZhMjNmMSJ9fX0="
+green:
+  glass: GREEN
+  item-name: "&2Lucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmFiMTgwZTgyMGY3MTYyOWYwMWYyNWI2MmJkZWI5YzMyNGQ1MGEzOGFmNzRlNmE5MzIxNDM5NDcxMDQ2ZGM0MSJ9fX0="
+red:
+  glass: RED
+  item-name: "&cLucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjk5NDJkZDEzMzhhYmVhZThiODI3NGE0MWFlMWRjZGYyYjdiZTQ0OWYyOGQ2YjY1MGVjMDZlNDkxZTcwZjU3MCJ9fX0="
+black:
+  glass: BLACK
+  item-name: "&0Lucky Block"
+  item-lore:
+    - ""
+    - "&7- &aPlace and break to use!"
+  texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdiMTg3ZTM4YjQwN2ZlYWJhZjE5MDg3OWQ5OGE2N2Y0YzcwNTJmMzIwMWY3MmU0NDU3MWY1MzdlYTg5ZDRjNyJ9fX0="

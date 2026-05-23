@@ -1,0 +1,39 @@
+# Items Section
+inventory-copier:
+  name: "&cInventory Copier"
+  lore:
+    - ""
+    - "&eRight-Click &7to"
+    - "&7copy a random player's inventory."
+lightning-scroll:
+  name: "&cLightning Scroll"
+  lore:
+    - ""
+    - "&eRight-Click &7to"
+    - "&7spawn a lightning above a random player."
+rainbow-wool:
+  name: "&bRainbow &cWool"
+  lore:
+    - ""
+    - "&7If you place this wool"
+    - "&7the color of the wool will randomize!"
+player-launcher:
+  name: "&cPlayer Launcher"
+  lore:
+    - ""
+    - "&eRight-Click &7and"
+    - "&7type a player's name in"
+    - "&7chat to launch the player up!"
+
+# Messages Section
+received-item: "&eYou received &b{count}x &r{item}"
+used-inventory-copier:
+  player: "&a&lYOU COPIED &b{target}'s &c&lINVENTORY&a&l!"
+  target: "&b{copier} &a&lCOPIED &c&lYOUR &c&lINVENTORY&a&l!"
+used-lightning-scroll:
+  player: "&a&lYOU STROKE A LIGHTNING ON &b{target}&a&l!"
+  target: "&b{striker} &a&lSTROKE YOU WITH A LIGHTNING!"
+used-player-launcher:
+  type-name-to-launch: "&e&lTYPE A PLAYER'S NAME IN CHAT TO LAUNCH THE PLAYER!"
+  player: "&a&lYOU LAUNCHED &b{target} &a&lINTO THE AIR!"
+  target: "&b{launcher} &a&lLAUNCHED YOU INTO THE AIR!"

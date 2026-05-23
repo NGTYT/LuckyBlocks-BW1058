@@ -1,0 +1,2 @@
+generator-limit: 10
+do-not-spawn-if-team-dead: true

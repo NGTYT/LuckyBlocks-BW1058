@@ -1,0 +1,11 @@
+name: LuckyBlocks
+version: 'v2.0'
+main: ir.pmzhero.luckyblocks.LuckyBlocks
+authors: [ PmzHero,NGT_YT ]
+description: Lucky blocks addon for BedWars1058
+depend:
+  - BedWars1058
+commands:
+  luckyblock:
+    description: Lucky block main command.
+    permission: luckyblock.admin
