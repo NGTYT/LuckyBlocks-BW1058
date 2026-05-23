@@ -78,5 +78,5 @@ by dming @NGT_YT on discord
 
 ## ❤️ Credits
 
-Developed by **PMZHero**  
+Developed by **pqrsam**  
 Modified and improved by **NGT_YT**
